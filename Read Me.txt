@@ -1,0 +1,3 @@
+This is a game in which a 5X5 matrix is shown .  In between the matrix a battleship is hidden .
+The user given 4 chances to sink the ship if the user succesfully guess the position of the
+battleship then a message is printed showing congrats otherwise user has given another chance .
